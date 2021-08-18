@@ -1,0 +1,65 @@
+
+
+
+
+
+.peace-of-mind-at-night{
+    max-width: 100%;
+    background-color: red;
+   
+}
+/* .peace-of-mind-at-night-content{
+    max-width: 1200px;
+    /* padding: 100px; 
+    background-color: yellow;
+} */
+
+
+
+
+
+/* /* .peace-of-mind-at-night-wrap .peace-of-mind-at-night-content {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+/* .img-peace-of-night .youtube-warp video {
+    width: 620px;
+    height: 380px;
+    -o-object-fit: fill;
+    object-fit: fill; 
+    margin-left: 0%;
+} */
+ .word-peace-of-night {
+    display: inline-block; 
+    width: 500px; 
+    vertical-align: middle; 
+    padding: 5%;
+    margin-right: 5%; 
+} 
+ .title-peace-night {
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 40px;
+    counter-reset: #333;
+} 
+.description-peace-night {
+     font-size: 18px; 
+    line-height: 1.6;
+    font-weight: 400;
+    color: #333;
+    display: inline-block;
+    margin-bottom: 0!important;
+    width: 500px;
+}
+ .description-peace-night2 {
+     font-size: 18px; 
+    line-height: 1.6;
+    font-weight: 400;
+    color: red;
+    display: inline-block;
+    margin-bottom: 0!important;
+    margin-top: 12px;
+}  
